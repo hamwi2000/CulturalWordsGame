@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/culturalwordsgame.iml" filepath="$PROJECT_DIR$/.idea/modules/culturalwordsgame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/culturalwordsgame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/culturalwordsgame.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CulturelWordsGame.iml" filepath="$PROJECT_DIR$/.idea/modules/CulturelWordsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CulturelWordsGame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CulturelWordsGame.app.iml" />
     </modules>
   </component>
 </project>
